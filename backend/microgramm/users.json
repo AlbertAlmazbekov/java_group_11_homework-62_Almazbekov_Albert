@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "igor",
+    "account": "@igor",
+    "email": "igor@gmail.com",
+    "password": "qwe",
+    "countPublications": "1",
+    "countSubscribers": "2",
+    "countSubscribes": "3"
+  },
+  {
+    "id": "2",
+    "name": "vitaliy",
+    "account": "@vitaliy",
+    "email": "vitaliy@gmail.com",
+    "password": "qwerty",
+    "countPublications": "1",
+    "countSubscribers": "3",
+    "countSubscribes": "4"
+  },
+  {
+    "id": "3",
+    "name": "alexey",
+    "account": "@alexey",
+    "email": "alexey@gmail.com",
+    "password": "qwerty1",
+    "countPublications": "1",
+    "countSubscribers": "6",
+    "countSubscribes": "7"
+  },
+  {
+    "id": "4",
+    "name": "vasiliy",
+    "account": "@vasiliy",
+    "email": "vasiliy@gmail.com",
+    "password": "qwerty12",
+    "countPublications": "1",
+    "countSubscribers": "9",
+    "countSubscribes": "10"
+  },
+  {
+    "id": "5",
+    "name": "vova",
+    "account": "@vova",
+    "email": "vova@gmail.com",
+    "password": "qwerty123",
+    "countPublications": "1",
+    "countSubscribers": "12",
+    "countSubscribes": "13"
+  }
+]
